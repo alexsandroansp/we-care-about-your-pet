@@ -31,7 +31,7 @@ Reproduzir 100% do layout original, focando em:
 ---
 
 🎨 **Design Original no Figma**
-[Figma - Página de We carea bout your pet (Community)](https://www.figma.com/design/e05eBQ6NZjtoDxGe8vFh03/We-Care-Your-Pet-3?node-id=0-1&p=f&t=MXZrhdBC3lU6qLZj-0)
+[Figma - Página de We care about your pet (Community)](https://www.figma.com/design/e05eBQ6NZjtoDxGe8vFh03/We-Care-Your-Pet-3?node-id=0-1&p=f&t=MXZrhdBC3lU6qLZj-0)
 
 ---
 
@@ -46,8 +46,8 @@ Reproduzir 100% do layout original, focando em:
 📸 **Preview do Projeto**
 
 <p align="center">
-  <a href="[https://we-care-about-your-pet.vercel.app/]" target="_blank">
-    <img src="[https://github.com/user-attachments/assets/f9c7b0f4-dfcf-40f7-8e75-721327b013cc]" width="100%" alt="Imagem do projeto de We care about your pet" />
+  <a href="https://we-care-about-your-pet.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f9c7b0f4-dfcf-40f7-8e75-721327b013cc" width="100%" alt="Imagem do projeto We care about your pet" />
   </a>
 </p>
 
