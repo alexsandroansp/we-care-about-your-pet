@@ -1,4 +1,4 @@
-<img width="1920" height="951" alt="we-care-about-your-pet" src="https://github.com/user-attachments/assets/f9c7b0f4-dfcf-40f7-8e75-721327b013cc" />
+
 
 
 
