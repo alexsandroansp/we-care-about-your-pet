@@ -15,7 +15,7 @@
 ---
 
 📖 **Descrição**
-> Este projeto é uma reprodução fiel de uma página de Local turístico, baseada em um design do Figma (Community).  
+> Este projeto é uma reprodução fiel de uma página de We care about your pet, baseada em um design do Figma (Community).  
 > Foi desenvolvido para exercitar atenção aos **detalhes visuais**, **alinhamentos**, **hierarquia tipográfica** e **estrutura semântica**.
 
 ---
